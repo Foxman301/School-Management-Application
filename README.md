@@ -12,5 +12,5 @@ screen, and framework integration for proper deployment to a cloud service for e
 invested the time into a proper buildup of a database from the groundup and used an API to connect the front and back-end to
 allow easier updates and more clear data dependencies. Something we could have used for this could be PHP.
 
-- If you have any issues with this project or have any suggestions, feel free to E-mail me at Jonatha.Espedal@gmail.com
+- If you have any issues with this project or have any suggestions, feel free to E-mail me at Jonathan.Espedal@gmail.com
 
